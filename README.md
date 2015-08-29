@@ -1,20 +1,20 @@
 #Code with Spring
 ##IDE plugin
-[Spring IDE or STS](http://stackoverflow.com/questions/18227089/spring-ide-plugin-vs-sts-feature-comparison-for-version-3-3-0)
-[Spring IDE download](https://marketplace.eclipse.org/content/spring-ide)
+[Spring IDE or STS](http://stackoverflow.com/questions/18227089/spring-ide-plugin-vs-sts-feature-comparison-for-version-3-3-0)    
+[Spring IDE download](https://marketplace.eclipse.org/content/spring-ide)    
+[STS download](https://marketplace.eclipse.org/content/spring-tool-suits-sts-eclipse)
 
 
 ##Getting start
-####Using videos
+####Prefer videos
 [Getting Started](https://www.youtube.com/playlist?list=PL7B74449D5224CC99)    
 
-####Using blogs
-######MVC
+####Intend words
+* MVC    
 [MVC with Maven(which is a bad idea)](http://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/)    
 
 
-<hr />
-######AOP
+* AOP    
 [The manual way](http://www.mkyong.com/spring/spring-aop-examples-advice/)    
 [Using XML schema(recommanded)](http://www.tutorialspoint.com/spring/schema_based_aop_appoach.htm)    
 [Using with AspectJ](http://www.mkyong.com/spring3/spring-aop-aspectj-annotation-example/)    
@@ -22,8 +22,7 @@
 [Official API reference](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/aop-api.html#aop-api-advice-types)    
 
 
-<hr />
-######Annotation
+* Annotation    
 [@Resource explained](http://www.tutorialspoint.com/spring/spring_jsr250_annotations.htm)    
 [@Required explained](http://www.tutorialspoint.com/spring/spring_required_annotation.htm)    
 [@Required explained alternative](http://www.javabeat.net/required-annotation-spring/)    
@@ -32,26 +31,22 @@
 [@Resource insight](https://www.java.net/node/664016)    
 
 
-<hr />
-######Controller
+* Controller    
 NULL
 
 
-<hr />
-######IoC
+* IoC    
 [overview w/ example](http://www.tutorialspoint.com/spring/spring_injecting_collection.htm)    
 
 
-<hr />
-######XML files
+* XML files    
 [Howto create web.xml w/ eclipse](http://crunchify.com/eclipse-missing-web-xml-file-how-can-i-create-web-xml-in-eclipse/)    
 [InternalResourceViewResolver explained](http://stackoverflow.com/questions/17453032/what-different-between-internalresourceviewresolver-vs-urlbasedviewresolver)    
 [ContextLoaderListener explained](http://stackoverflow.com/questions/11815339/role-purpose-of-contextloaderlistener-in-spring)    
 [ContextLoaderListener javaDoc](http://docs.spring.io/autorepo/docs/spring-framework/3.0.x/api/org/springframework/web/context/ContextLoaderListener.html)    
 
 
-<hr />
-######DAO
+* DAO    
 [WHy DAO work w/ service layer](http://programmers.stackexchange.com/questions/220909/service-layer-vs-dao-why-both)    
 
 
